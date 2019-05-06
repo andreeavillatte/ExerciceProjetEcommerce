@@ -1,0 +1,133 @@
+.img-product {
+  width: 160px!important;
+  height: 234px;
+}
+.footer{
+    font-size: 10px;
+    padding-top: -5px;
+}
+
+h1{
+    font-size: 15px;
+}
+
+#world{
+    padding-top: 15px;
+}
+
+#reseaux{
+    height:60px;
+    width: 60px;
+}
+
+#reseaux2{
+    height:70px;
+    width: 70px;
+}
+
+#reseaux3{
+    height:55px;
+    width: 55px;
+}
+
+#paid{
+    height:70px;
+    width: 70px;
+}
+
+#flag{
+    height:45px;
+    width: 28px;
+}
+.dropdown-item:focus, .dropdown-item:hover{
+  color: grey;
+}
+.card1{
+  width: 5%;
+  float: left;
+  display: none;
+}
+.imgm{
+  height: 64px;
+  width: 64px;
+}
+.card{
+  border: 2px solid black;
+}
+.montrepanier{
+  margin-left: 28%;
+}
+.dropdown-menu{
+  width: 350px;
+  right: 0px;
+  left: auto;
+}
+.btndp{
+  margin-right: 6%;
+}
+#panier{
+  width: 30px;
+  height: 30px;
+}
+#dropdownpannier{
+  margin-right: 7%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+#navbarSupportedContent{
+  margin-left: 7%;
+  font-size: 18px;
+}
+.bar{
+  border-radius: 5px
+}
+.selection{
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+.marque{
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-right: 40px;
+  font-size: 20px;
+}
+#montreicon{
+  height: 30px;
+  width: 23px;
+}
+#montreicone{
+  height: 30px;
+  width: 23px;
+}
+.contact{
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-left: 520px;
+}
+#montr{
+  border: 1px solid white;
+  border-radius: 5px;
+  font-size: 20px;
+}
+@media all and (max-width: 1024px){
+  .selection{
+    margin-top: 5px;
+  }
+  .contact{
+    margin-top: 5px;
+    margin-right: 13px;
+    margin-left: 0px;
+  }
+  #montreicone{
+    display: none;
+  }
+  .dropdown-menu{
+    width: 290px;
+    right: auto;
+  }
+  .montrepanier{
+    margin-left: 85px;
+    height: 128px;
+  }
+}
